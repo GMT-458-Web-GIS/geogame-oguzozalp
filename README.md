@@ -1,3 +1,6 @@
+Live demo : https://gmt-458-web-gis.github.io/geogame-oguzozalp/
+
+
 # GeoPath Quiz – Design Documentation
 
 ## 1. Aim
@@ -137,3 +140,4 @@ This design fulfills the requirements for:
 * Stated JS libraries
 
 The implementation phase will convert this design into a full web application hosted on GitHub Pages.
+
